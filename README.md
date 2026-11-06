@@ -1,4 +1,4 @@
-![Smart Home System - Dino Game Mode](hardware/photos/smart-home-dino-game.jpg)
+![Smart Home System - Dino Game Mode](hardware/photos/Smart Home - Dino Game.jpg)
 # Smart-Home-Automation-and-Security-System
 Smart home system combining environmental monitoring, automated response to monitored changes, security alerts for emergency cases, remote control, and a mini game in LED matrix display. The system has 3 modes; 
 1. Auto Mode - Fully Automated response to environmental changes or emergency cases.
